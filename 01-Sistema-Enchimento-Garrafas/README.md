@@ -26,7 +26,10 @@ Simular um sistema automatizado de enchimento e transporte de garrafas, utilizan
 -CIMULAÇÃO VIA PCSIMU
 <img width="1366" height="743" alt="SISTEMA_DE_ENCHIMENTO_PCSIMU" src="https://github.com/user-attachments/assets/69ea7970-21d5-459b-85ec-48f7f9265647" />
 
+## Arquivos do projeto
+[ARQUIVOS DO PROJETO.zip](https://github.com/user-attachments/files/23212522/ARQUIVOS.DO.PROJETO.zip)
 
 ## Aprendizado
 - Lógica sequencial de acionamento de múltiplos atuadores  
 - Integração de transporte e enchimento
+
