@@ -12,7 +12,7 @@ Cada pasta contém um projeto com:
 ## ⚡ Destaques
 
 ### 1. Sistema de Enchimento de Garrafas
-- [Pasta do projeto](./01-Sistema-Enchimento-Garrafas)
+[- [Pasta do projeto](./01-Sistema-Enchimento-Garrafas)]
 
 
 ## 📌 Outros projetos
