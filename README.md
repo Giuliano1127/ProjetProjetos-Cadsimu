@@ -12,7 +12,6 @@ Cada pasta contém um projeto com:
 ## ⚡ Destaques
 
 ### 1. Sistema de Enchimento de Garrafas
-[[- [Pasta do projeto](./01-Sistema-Enchimento-Garrafas)]](https://github.com/Giuliano1127/Projetos-Cadsimu/blob/main/01-Sistema_Enchimento_Garrafas)
 
 
 ## 📌 Outros projetos
