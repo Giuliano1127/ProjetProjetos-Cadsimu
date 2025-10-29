@@ -12,11 +12,14 @@ Cada pasta contém um projeto com:
 ## ⚡ Destaques
 
 ### 1. Sistema de Enchimento de Garrafas
-
+- **Objetivo:** Simular um sistema automatizado de enchimento e transporte de garrafas, utilizando lógica sequencial de atuadores pneumáticos.
+- **Descrição:** Esteira transportadora, válvula de enchimento, atuador pneumático e sensor final para verificação da tampa.
+- **Componentes simulados:** Motor trifásico da esteira, cilindros pneumáticos, sensores de fim de curso.
+- [Pasta do projeto](./01-Sistema-Enchimento-Garrafas)
 
 ## 📌 Outros projetos
-- 04-Projeto-Nome: breve descrição, [link para pasta](./04-Projeto-Nome)  
-- 05-Projeto-Nome: breve descrição, [link para pasta](./05-Projeto-Nome)
+- 02-Nome-Projeto: breve descrição, [link para pasta](./02-Projeto-Nome)  
+- 03-Nome-Projeto: breve descrição, [link para pasta](./03-Projeto-Nome)
 
 ---
 
