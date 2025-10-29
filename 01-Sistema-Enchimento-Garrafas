@@ -19,9 +19,6 @@ Simular um sistema automatizado de enchimento e transporte de garrafas, utilizan
 - Sensores fim de curso  
 
 ## Demonstração
-![Print 1](./prints/print1.png)
-![Print 2](./prints/print2.png)
-![Print 3](./prints/print3.png)
 
 ## Aprendizado
 - Lógica sequencial de acionamento de múltiplos atuadores  
