@@ -21,7 +21,7 @@ Simular um sistema automatizado de enchimento e transporte de garrafas, utilizan
 ## Demonstração
 ![Print 1](./prints/SISTEMA_ENCHE_RP.png)
 ![Print 2](./prints/SISTEMA_ENCHE_CADSIMU.png)
-01-Sistema-Enchimento-Garrafas/01-Sistema-Enchimento-Garrafas/prints/SISTEMA_DE_ENCHIMENTO_PCSIMU.png
+![Print 3](./prints/SISTEMA_ENCHE_PCSIMU.png)
 
 ## Aprendizado
 - Lógica sequencial de acionamento de múltiplos atuadores  
