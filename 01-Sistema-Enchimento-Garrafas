@@ -1,0 +1,29 @@
+# Sistema de Enchimento de Garrafas
+
+**Tipo de projeto:** Acadêmico  
+**Simulação:** Cadsimu / PCSIMU  
+**Modelagem:** Rede de Petri (RP)  
+
+## Objetivo
+Simular um sistema automatizado de enchimento e transporte de garrafas, utilizando lógica sequencial de atuadores pneumáticos.
+
+## Descrição do Sistema
+- Esteira transportadora de garrafas acionada por motor trifásico  
+- Válvula simulando enchimento 
+- Atuador pneumático para simulação de fechamento da garrafa
+- Sensor final verificando se a garrafa está ou não tampada.
+
+## Componentes Simulados
+- Motor de esteira (trifásico)    
+- Cilindros pneumáticos  
+- Sensores fim de curso  
+
+## Demonstração
+![Print 1](./prints/print1.png)
+![Print 2](./prints/print2.png)
+![Print 3](./prints/print3.png)
+
+## Aprendizado
+- Lógica sequencial de acionamento de múltiplos atuadores  
+- Integração de transporte, movimentação e enchimento  
+- Simulação prática de automação industrial acadêmica
