@@ -34,7 +34,7 @@ Simular um sistema automatizado de enchimento e transporte de garrafas, utilizan
 
 
 ## Arquivos do projeto
--inclui: Arquivos rede de petri(.pn), cadsimu(.cad), pcsimu(.SIM)
+
 [ARQUIVOS DO PROJETO.zip](https://github.com/user-attachments/files/23212522/ARQUIVOS.DO.PROJETO.zip)
 
 ## Aprendizado
