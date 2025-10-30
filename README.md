@@ -18,7 +18,7 @@ Cada pasta contém um projeto com:
 - [Pasta do projeto](./01-Sistema-Enchimento-Garrafas)
 
 ## 📌 Outros projetos
-- 02-Nome-Projeto: breve descrição, [link para pasta](./02-Projeto-Nome)  
+- 02-Grua: Sistema de carga e descar utilizando dois motores em sincronia, [link para pasta](./02-GRUA/Readme.md)  
 - 03-Nome-Projeto: breve descrição, [link para pasta](./03-Projeto-Nome)
 
 ---
