@@ -1,44 +1,35 @@
-# 🏗️ GRUA DE CARGA E DESCARGA (PROJETO DE AUTOMAÇÃO)
+# 🏗️ Grua de Carga e Descarga
 
-## 📌 Visão Geral
+## 📌 Visão Geral  
+Projeto acadêmico voltado à modelagem e simulação do controle de uma **grua de carga e descarga**. O sistema realiza movimentos **verticais (M1)** e **horizontais (M2)** para completar os ciclos de transporte.
 
-Projeto acadêmico com foco na modelagem e simulação do controle de uma Grua de Carga e Descarga. O sistema realiza o movimento vertical (M1) e horizontal (M2) para completar os ciclos de transporte.
+- **Tipo de Projeto:** Acadêmico  
+- **Modelagem:** Rede de Petri (RP)  
+- **Simulação:** CadSimu  
+- **Linguagem:** Ladder  
 
-* [cite_start]**Tipo de Projeto:** Acadêmico[cite: 3].
-* [cite_start]**Modelagem Principal:** Rede de Petri (RP)[cite: 17].
-* [cite_start]**Simulação/Desenvolvimento:** CadSimu [cite: 35] [cite_start](Linguagem Ladder [cite: 36]).
+## 🎯 Objetivo  
+Desenvolver o controle automatizado da grua, executando o trajeto completo de **ida (Ciclo 1)** e **volta (Ciclo 2)** entre as posições de **repouso** e **carga/descarga**.
 
-## 🎯 Objetivo
+## ⚙️ Componentes Principais  
+- **M1:** Movimento vertical (Sobe/Desce)  
+- **M2:** Movimento horizontal (Direita/Esquerda)  
+- **FC1 – FC6:** Fins de curso para controle de posição  
+- **T1:** Temporizador de espera na posição de descarga  
 
-[cite_start]Modelar um sistema de controle de movimentação para a grua, realizando o trajeto completo de ida (Ciclo 1) e volta (Ciclo 2)[cite: 3, 7, 8].
+## 🧩 Lógica de Controle  
+A sequência foi **modelada em Rede de Petri** e **implementada em Ladder**, garantindo o intertravamento entre os motores e o controle dos ciclos de operação.
 
-## ⚙️ Componentes Chave
+## Rede de Petri
 
-[cite_start]O controle dos movimentos é baseado no acionamento de dois motores e seis Fim de Curso (FC)[cite: 4]:
+<img width="1366" height="727" alt="GRUAIMG" src="https://github.com/user-attachments/assets/fe74d2e7-1d20-43c1-beb2-f533d01128d7" />
 
-* [cite_start]**M1:** Movimentos na **Vertical** (Sobe/Desce)[cite: 4].
-* [cite_start]**M2:** Movimentos na **Horizontal** (Direita/Esquerda)[cite: 4].
-* [cite_start]**Fins de Curso (FC1 - FC6):** Posicionam e orientam os motores[cite: 4].
-* [cite_start]**Temporizador (T1):** Utilizado para temporizar o tempo de espera na posição de descarga[cite: 34].
+## Lógica Ladder
 
-## 📝 Lógica Sequencial
+<img width="806" height="574" alt="GRUACIRCUITIMG" src="https://github.com/user-attachments/assets/31bbf022-44f5-4739-84b2-68a04c779945" />
 
-[cite_start]A lógica sequencial foi validada usando a Rede de Petri [cite: 17] [cite_start]e implementada no circuito Ladder[cite: 35, 36]. [cite_start]O sistema comuta entre a **Posição de Repouso (1)** e a **Posição de Carga/Descarga (2)**[cite: 11, 15].
+## 📂 Arquivos  
 
-## 📂 Arquivos do Projeto
+[ARQUIVOS DO PROJETO (GRUA).zip](https://github.com/user-attachments/files/23237856/ARQUIVOS.DO.PROJETO.GRUA.zip)
 
-Todos os arquivos de modelagem e simulação estão contidos no repositório.
 
-* [cite_start]`GRUA VIA PR (1).pdf` (Diagramas esquemático, Rede de Petri e Circuito Ladder [cite: 1, 35]).
-* *Arquivos de Simulação CadSimu/PCSIMU (Não inclusos neste README, mas presume-se a existência).*
-
-## 💡 Aprendizado
-
-* [cite_start]Modelagem de sistemas de automação via Rede de Petri[cite: 17].
-* [cite_start]Desenvolvimento de lógica sequencial em Linguagem Ladder[cite: 36].
-* Integração e acionamento de múltiplos atuadores (motores) coordenados por sensores de Fim de Curso.
-
-## ✒️ Autor
-
-* [cite_start]**Autor:** Giuliano Barone [cite: 1]
-* [cite_start]**Data:** 10/2025 [cite: 2]
