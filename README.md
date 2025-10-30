@@ -19,7 +19,7 @@ Cada pasta contém um projeto com:
 
 ## 📌 Outros projetos
 - 02-Grua: Sistema de carga e descar utilizando dois motores em sincronia, [link para pasta](./02-GRUA/README.md)  
-- 03-Nome-Projeto: breve descrição, [link para pasta](./03-Projeto-Nome)
+- 03-DOBRA DE CHAPA: Acionamento sequencial de atuadores lineares, [link para pasta](./03-DOBRA DE CHAPA/README.md)
 
 ---
 
