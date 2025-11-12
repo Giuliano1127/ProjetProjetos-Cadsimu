@@ -1,5 +1,7 @@
 # 🏗️ Grua de Carga e Descarga
 
+<img width="350" height="229" alt="GRUAIMG" src="https://github.com/user-attachments/assets/e96e07ac-b433-4bed-8bd5-a536ce07bc9c" />
+
 ## 📌 Visão Geral  
 Projeto acadêmico voltado à modelagem e simulação do controle de uma **grua de carga e descarga**. O sistema realiza movimentos **verticais (M1)** e **horizontais (M2)** para completar os ciclos de transporte.
 
