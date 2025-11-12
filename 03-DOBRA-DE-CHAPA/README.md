@@ -1,6 +1,9 @@
 # 🤖 Sistema de Dobra de Chapa
 
 ## 📌 Visão Geral  
+
+<img width="746" height="294" alt="DOBRADECHAPAIMG" src="https://github.com/user-attachments/assets/1ccd9620-d354-437e-9af1-e7ca24a49f68" />
+
 Projeto acadêmico voltado à modelagem e simulação do **acionamento sequencial de três atuadores pneumáticos lineares** para um processo de dobra de chapas metálicas. O sistema foi desenvolvido no **CadSimu** e modelado por **Rede de Petri (RP)**.
 
 - **Tipo de Projeto:** Acadêmico  
